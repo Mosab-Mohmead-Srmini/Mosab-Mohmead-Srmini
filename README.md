@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosab-Mohmead-Srmini&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mosab's Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&locale=en&theme=dark" alt="Mosab's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mosab-Mohmead-Srmini&show_icons=true&locale=en&theme=dark" alt="Mosab's GitHub Stats" />
   </a>
 </p>
 
