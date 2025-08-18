@@ -42,7 +42,7 @@
 ### 🛠 Skills & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,flask,nodejs,angular,ts,js,html,css,bootstrap,tailwind,flutter,dart,mysql,postgres,sqlite,git,github,vscode,visualstudio&theme=light" alt="Skills" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Skills" />
 </p>
 
 ---
