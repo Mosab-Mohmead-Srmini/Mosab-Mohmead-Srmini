@@ -1,59 +1,12 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">
-  Hi there, I'm 
-  <a href="https://github.com/Mosab-Mohmead-Srmini">Mosab Muhammad Srmini</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hey 👋, I'm <a href="https://github.com/Mosab-Mohmead-Srmini">Mosab Muhammad Srmini</a>
 </h1>
+<h3 align="center">💻 Back-End Developer | 🚀 Full-Stack Learner | 🎯 Clean Code Enthusiast</h3>
 
-<h3 align="center">
-  💻 Back-End Developer | 🚀 Full-Stack Explorer | 🎯 Clean Code Advocate
-</h3>
-
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;ASP.NET+%7C+C%23+%7C+SignalR;Clean+Architecture+%7C+CQRS;Flutter+%26+Angular+Full-Stack;Open+Source+Contributor;Lifelong+Learner+%26+Problem+Solver" alt="Typing Animation" />
-</p>
-
----
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-- 🎓 Informatics Engineering Student @ **University of Aleppo**.  
-- 🏗 Specialized in **ASP.NET, C#, and real-time systems with SignalR**.  
-- ⚡ Passionate about **Clean Architecture, CQRS, and scalable systems**.  
-- 🌱 Exploring **AI + Cloud + Flutter mobile apps**.  
-- 🤝 Love teaching & mentoring students in **C++ and Software Design**.  
-
----
-
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosab-Mohmead-Srmini&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosab-Mohmead-Srmini&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mosab-Mohmead-Srmini&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mosab-Mohmead-Srmini&theme=radical&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/Mosab-Mohmead-Srmini/Mosab-Mohmead-Srmini/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph.svg?username=Mosab-Mohmead-Srmini&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=ASP.NET+%7C+C%23+%7C+SignalR;Flutter+%7C+Angular+%7C+Full+Stack;Clean+Architecture+%7C+CQRS;Problem+Solver+%7C+Mentor+%7C+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,30 +14,64 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,angular,ts,js,html,css,bootstrap,tailwind,python,django,flask,nodejs,mysql,postgres,git,github,vscode,visualstudio&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,angular,ts,js,html,css,bootstrap,tailwind,python,django,flask,nodejs,mysql,postgres,git,github,vscode,visualstudio&theme=light&perline=8" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 📊 GitHub Stats  
 
-- 🏗 **Truck Purchasing Management App** – *Flutter & ASP.NET (Clean Architecture)*.  
-- 📚 **Programming Learning Platform** – *Angular + ASP.NET with CQRS & Mediator*.  
-- 🤖 **AI Image Classification Model** – *Deep Learning with high accuracy*.  
-- 🍴 **Restaurant Management System** – *Full-stack ordering & reservations system*.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosab-Mohmead-Srmini&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosab-Mohmead-Srmini&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
----
-
-## 🌟 Fun & Beyond Coding  
-
-- 👨‍🏫 Volunteer **C++ Instructor** for university students.  
-- ♟ Strategic **chess player** (always thinking 3 steps ahead).  
-- 📖 Always learning new tech, reading & exploring innovations.  
-- 🌍 Active **open-source contributor**.  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mosab-Mohmead-Srmini&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 📞 Let’s Connect  
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mosab-Mohmead-Srmini&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contributions  
+
+<p align="center">
+  <img src="https://github.com/Mosab-Mohmead-Srmini/Mosab-Mohmead-Srmini/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosab-Mohmead-Srmini&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projects  
+
+- 🏗 **Truck Purchasing Management App** – Flutter + ASP.NET (Clean Architecture)  
+- 📚 **Programming Learning Platform** – Angular + ASP.NET (CQRS + Mediator)  
+- 🤖 **AI Image Classifier** – Deep learning with high accuracy  
+- 🍴 **Restaurant Management System** – Full-stack ordering & reservations  
+
+---
+
+## 🌟 Fun Facts  
+
+- 👨‍🏫 Volunteer **C++ instructor** for university students  
+- ♟ Love playing **chess** and solving strategic puzzles  
+- 📖 Always exploring **new tech, AI, and clean code practices**  
+
+---
+
+## 📬 Connect with Me  
 
 <p align="center">
   <a href="https://wa.me/963952824261"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -94,10 +81,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mosab-Mohmead-Srmini" alt="Profile Views"/>
