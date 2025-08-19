@@ -1,15 +1,23 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg" 
-       alt="Banner" 
-       width="1000" 
-       height="300" 
-       style="border-radius: 15px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg"
+       alt="Banner"
+       width="1000"
+       height="300"
+       style="border-radius: 20px; object-fit: cover; box-shadow: 0 8px 25px rgba(0,0,0,0.5); transition: transform 0.5s ease;"
+       onmouseover="this.style.transform='scale(1.05)';"
+       onmouseout="this.style.transform='scale(1)';"/>
 </p>
-<h1 align="center">
+
+<!-- Main Title -->
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #0D6EFD; transition: all 0.3s ease;" 
+    onmouseover="this.style.color='#FF5733';" 
+    onmouseout="this.style.color='#0D6EFD';">
   Hi there, I'm Mosab Muhammad Srmini 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="center">💻 Professional Back-End Developer | ASP.NET & C# Specialist</h3>
+
+<h3 align="center" style="font-style: italic; color: #555;">💻 Professional Back-End Developer | ASP.NET & C# Specialist</h3>
 
 ---
 
@@ -98,18 +106,33 @@
 
 <p align="center">
   <a href="https://wa.me/963952824261" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="https://www.linkedin.com/in/mosab-srmini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="mailto:mosabsrmini200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';">
   </a>
   <a href="https://github.com/Mosab-Mohmead-Srmini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';">
   </a>
-  <a href="https://www.youtube.com/@mosab_srmini">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
+  <a href="https://www.youtube.com/@mosab_srmini" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';">
+  </a>
 </p>
