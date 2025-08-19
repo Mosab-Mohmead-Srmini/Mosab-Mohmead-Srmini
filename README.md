@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://www.keenesystems.com/hubfs/Pillar/asp.net-development/asp-net-3.jpg" 
-       alt="Banner" width="100%" style="border-radius: 15px;"/>
+       alt="Banner" 
+       width="1000" 
+       height="300" 
+       style="border-radius: 15px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 <h1 align="center">
   Hi there, I'm Mosab Muhammad Srmini 
