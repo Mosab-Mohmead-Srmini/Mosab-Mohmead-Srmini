@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1537432376769-00a47f6e8121?fit=crop&w=1200&h=400" 
+       alt="Banner" width="100%" style="border-radius: 15px;"/>
+</p>
 <h1 align="center">
   Hi there, I'm Mosab Muhammad Srmini 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
